@@ -1,5 +1,0 @@
-[user]
-	email = kristen.kotkas@gmail.com
-[core]
-	editor = code
-.ipynb_checkpoints contains the manual saves of the notebook file.
