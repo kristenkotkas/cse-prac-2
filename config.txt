@@ -1,0 +1,5 @@
+[user]
+	name = Kristen
+	email = kristen.kotkas@gmail.com
+[core]
+	editor = code
